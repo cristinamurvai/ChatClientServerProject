@@ -1,2 +1,5 @@
 Chat Client-Server
-Progetto di Programmazione di Reti
+
+Progetto di Programmazione di Reti 
+
+Cristina Murvai
